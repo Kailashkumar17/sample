@@ -1,0 +1,19 @@
+1)Working knowledge on GCE, GAE, GKE and GCS 
+2)Hands-on experience in creating and provisioning compute Instances using GCP console,
+3)Terraform and Google Cloud SDK.
+4)Creating Databases in GCP and in VM’s
+Knowledge of data analyst tool (big query).
+Knowledge of cost analysis and cost optimization.
+Knowledge of Git & GitHub.
+Knowledge on Terraform and Jenkins.
+****************************************************
+Monitoring the VM and Applications using Stack driver.
+Working knowledge on VPN and Interconnect setup.
+Hands on experience in setting up HA environment.
+Hands on experience in Creating VM instances in Google cloud Platform.
+Hands on experience in Cloud storage and retention policies in storage.
+Managing Users on Google IAM Service and providing them appropriate permissions.
+*********************************************************
+GKE -  Designing, implementing, managing, and deploying cloud-native applications in a Kubernetes environment.
+GKE - Automation, troubleshooting issues, and mentoring the team members.
+GKE - Understand security, efficiency, scalability of core services and capabilities.
